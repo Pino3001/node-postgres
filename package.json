@@ -1,0 +1,11 @@
+{
+  "name": "node-postgres",
+  "version": "1.0.0",
+  "description": "Learn how NodeJS and Express can interact with PostgreSQL",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "main": "index.js",
+  "license": "ISC"
+}
